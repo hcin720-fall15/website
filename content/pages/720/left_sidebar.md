@@ -14,7 +14,6 @@
 ###Links
 - [Course overview](index.html)
 - [Syllabus](files/720/syllabus.pdf)
-- [Assignment 1 setup](a1setup.html)
 
 <hr>
 
