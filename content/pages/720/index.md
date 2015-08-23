@@ -20,7 +20,7 @@ accordingly.
 Get set up for Thursday's hands-on skill-building. See [this
 page](a1setup.html) for instructions. We **will not** spend time in
 class on set up, so start now. If you have problems, Google first,
-then email me to ask for help.
+then check Slack for help.
 
 ####Due Tuesday, September 1
 Download and read the following paper; be prepared to discuss it in
