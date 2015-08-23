@@ -17,7 +17,8 @@ PATH = 'content'
 PAGE_URL = '{category}/{fname}.html'
 PAGE_SAVE_AS = PAGE_URL
 PAGE_PATHS = ['pages']
-STATIC_PATHS = ['js', 'css', 'fonts', 'images', 'misc', 'files']
+STATIC_PATHS = ['js', 'css', 'fonts', 'images', 'misc', 'files',
+	'font-awesome']
 
 
 # Feed generation is usually not desired when developing
