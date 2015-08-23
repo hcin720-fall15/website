@@ -12,8 +12,10 @@
 <hr>
 
 ###Links
-- [Course overview](index.html)
-- [Syllabus](/files/720/syllabus.pdf)
+- <span class="fa fa-fw fa-file-o"></span>[Course overview](index.html)
+- <span class="fa fa-fw fa-file-pdf-o"></span>[Syllabus](/files/720/syllabus.pdf)
+- <span class="fa fa-fw fa-calendar"></span>[Class
+	calendar](https://www.google.com/calendar/embed?src=fka1qfv64r69a6a72hqk6u3ai4%40group.calendar.google.com&ctz=America/New_York)
 
 <hr>
 

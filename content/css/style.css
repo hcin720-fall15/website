@@ -79,6 +79,8 @@ ul { list-style-type: circle }
 	margin-bottom: 10px;
 }
 .sidebar h3 { margin-top: 10px }
+.sidebar .fa { color: #666 }
+.sidebar li .fa { margin-left: .5em }
 
 .books td:first-child { text-align: center }
 .books td { vertical-align: top }
