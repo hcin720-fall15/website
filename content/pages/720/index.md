@@ -10,6 +10,12 @@ learning by doing.
 ##Assignments and tasks
 <div class="assignment">
 ###Assigned Tuesday, August 25
+####Due Wednesday, August 26
+Fill out the [class
+survey](https://docs.google.com/forms/d/1TG3gzmcLktQi2kpWAWmJ77d5N1KAboQTLbTK-IGLj_4/viewform)
+so I can get an idea of your skill levels and adapt my materials
+accordingly.
+
 ####Due Thursday, August 27
 Get set up for Thursday's hands-on skill-building. See [this
 page](a1setup.html) for instructions. We **will not** spend time in

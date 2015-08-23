@@ -14,17 +14,20 @@ Nov 12 | Guest lecture
 _All assignments are due at 1:59 pm on the due date._
 
 
-Assigned      | Due         | Link
---------------|-------------|-----------
-Tue, Aug 25   | Thu, Aug 27 | [Set up](a1setup.html)
-Thu, Aug 27   | Tue, Sep 8  | IA 1
-Tue, Sep 8    | Thu, Sep 17 | IA 2
-Thu, Sep 17   | Tue, Sep 29 | IA 3
-Tue, Sep 29   | Thu, Oct 15 | GP 1
-Thu, Oct 15   | Thu, Oct 29 | GP 2
-Thu, Oct 29   | Tue, Nov 17 | GP 3
-Thu, Nov 12   | Thu, Nov 19 | FP prop.
-Thu, Nov 12   | Finals week | FP
+Assigned    | Due         | Link
+------------|-------------|-----------
+Tue, Aug 25 | Wed, Aug 26 | [Survey](https://docs.google.com/forms/d/1TG3gzmcLktQi2kpWAWmJ77d5N1KAboQTLbTK-IGLj_4/viewform)
+Tue, Aug 25 | Thu, Aug 27 | [IA 1 Set up](a1setup.html)
+Thu, Aug 27 | Tue, Sep 8  | IA 1
+Tue, Sep 8  | Thu, Sep 10 | Set up
+Tue, Sep 10 | Tue, Sep 22 | IA 2
+Tue, Sep 22 | Thu, Sep 24 | Set up
+Thu, Sep 24 | Tue, Oct 6  | IA 3
+Tue, Oct 6  | Tue, Oct 20 | GP 1
+Tue, Oct 20 | Tue, Nov 3  | GP 2
+Tue, Nov 3  | Tue, Nov 17 | GP 3
+Thu, Nov 12 | Thu, Nov 19 | FP prop.
+Thu, Nov 12 | Finals week | FP
 
 _(IA: Individual Assignment; GP: Group Project; FP: Final Project;
 prop.: proposal)_

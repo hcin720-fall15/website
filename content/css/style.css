@@ -71,7 +71,7 @@ ul { list-style-type: circle }
 	width: 100%;
 	margin-bottom: 10px;
 }
-.sidebar td, .sidebar th { padding: 0 5px }
+.sidebar td, .sidebar th { padding: 0 }
 .sidebar th { border-bottom: 1px solid black }
 .sidebar hr
 {
