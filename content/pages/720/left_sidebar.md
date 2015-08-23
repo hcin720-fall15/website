@@ -13,7 +13,7 @@
 
 ###Links
 - [Course overview](index.html)
-- [Syllabus](files/720/syllabus.pdf)
+- [Syllabus](/files/720/syllabus.pdf)
 
 <hr>
 
