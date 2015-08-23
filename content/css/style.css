@@ -86,3 +86,5 @@ ul { list-style-type: circle }
 .books td { vertical-align: top }
 
 .fa-cloud { color: #4ec9f4 }
+
+.center-content ul { padding-left: 1em }

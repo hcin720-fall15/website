@@ -31,6 +31,30 @@ September (1991)](/files/720/Scientific American 1991 Weiser.pdf)
 </div>
 
 
+##Inspirations
+This class has been heavily inspired, and in some cases modeled on, a
+number of classes taught at other universities:
+
+- [CMSC838f: Tangible Interactive
+	Computing](http://cmsc838f-s15.wikispaces.com)
+	taught by [Jon Froehlich](http://www.cs.umd.edu/~jonf/) at the University of Maryland.
+- [CSCI7000: Physical
+	Computing](https://trello.com/b/dserApBq/cu-physical-computing)
+	taught by [Shaun Kane](http://shaunkane.info) at the University of
+	Colorado Boulder.
+- [CS294-84: Interactive Device
+	Design](http://husk.eecs.berkeley.edu/courses/cs294-84-fall14/index.php/Main_Page)
+	taught by [Bjoern Hartmann](http://www.cs.berkeley.edu/~bjoern/)
+	at the University of California Berkeley.
+- [INFO290-4: Tangible User
+	Interfaces](http://courses.ischool.berkeley.edu/i290-4/f08/index.html)
+	taught by [Kimiko Ryokai](http://people.ischool.berkeley.edu/~kimiko/) and others 
+	at the University of California Berkeley.
+- [CSCI6609: Ubiquitous
+	Computing](https://web.cs.dal.ca/~reilly/CSCI6609/) taught by [Derek
+	Reilly](https://web.cs.dal.ca/~reilly) at Dalhousie University.
+
+
 ##Resources
 ###Books
 These are books that might be interesting for you to look at in
