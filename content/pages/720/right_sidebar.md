@@ -18,7 +18,7 @@ Assigned    | Due         | Link
 ------------|-------------|-----------
 Tue, Aug 25 | Wed, Aug 26 | [Survey](https://docs.google.com/forms/d/1TG3gzmcLktQi2kpWAWmJ77d5N1KAboQTLbTK-IGLj_4/viewform)
 Tue, Aug 25 | Thu, Aug 27 | [IA 1 Set up](a1setup.html)
-Thu, Aug 27 | Tue, Sep 8  | IA 1
+Thu, Aug 27 | Tue, Sep 8  | [IA 1](assignment1.html)
 Tue, Sep 8  | Thu, Sep 10 | Set up
 Tue, Sep 10 | Tue, Sep 22 | IA 2
 Tue, Sep 22 | Thu, Sep 24 | Set up
