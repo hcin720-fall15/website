@@ -56,7 +56,36 @@ number of classes taught at other universities:
 
 
 ##Resources
-###Books
+###Javascript
+There are quite a few Javascript books available via the RIT Library.
+Use [this search link](http://rit.summon.serialssolutions.com/?q=javascript&SID=libhs#!/search?ho=t&fvf=ContentType,Book%20%2F%20eBook,f|Library,Online,f&l=en&q=javascript&SID=libhs)
+for a list of them.
+
+A couple of books to look for, whether online, physically via the
+library, or buying them yourself:
+
+- JavaScript: The Good Parts
+- Learning JavaScript Design Patterns (read it via the library or free
+	online [here](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/))
+- [Eloquent JavaScript](http://eloquentjavascript.net/) (free online)
+- [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
+(free online)
+
+Other online resources:
+
+- [Stack Overflow](http://stackoverflow.com/)---Answers to all of the
+	programming questions. Ever.
+- [MDN JavaScript
+	Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)---The
+	Mozilla Developer Network is generally very helpful and well-done.
+- [Mastering node.js](http://visionmedia.github.io/masteringnode/)
+- [Javascript for Java Developers](http://blog.jhades.org/javascript-for-java-developers/)
+- [Javascript Best Practices](https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md)
+- [Learn Javascript Best Practices](https://www.thinkful.com/learn/javascript-best-practices-1/#Summary)
+
+
+
+###Books about ubiquitous computing
 These are books that might be interesting for you to look at in
 connection with this class. Some of them I'll use material from, but
 I will provide you with anything I want you to read. I have copies of
