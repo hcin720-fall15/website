@@ -19,6 +19,8 @@ PAGE_SAVE_AS = PAGE_URL
 PAGE_PATHS = ['pages']
 STATIC_PATHS = ['js', 'css', 'fonts', 'images', 'misc', 'files',
 	'font-awesome']
+MD_EXTENSIONS = ['codehilite(css_class=highlight)','extra', 'smartypants',
+	'toc(title=Table of Contents)']
 
 
 # Feed generation is usually not desired when developing
