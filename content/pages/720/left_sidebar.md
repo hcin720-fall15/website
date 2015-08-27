@@ -26,3 +26,7 @@ _Dates refer to when we will discuss the paper in class._
 
 - Tue, Sep 1: [The Computer for the 21st
 	Century](/files/720/Scientific American 1991 Weiser.pdf)
+
+###Slides
+- [Tue, Aug 25](/files/720/slides/HCIN720-01.pdf)
+- [Thu, Aug 27](/files/720/slides/HCIN720-02.pdf)
