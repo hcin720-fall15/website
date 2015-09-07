@@ -19,6 +19,8 @@ PAGE_SAVE_AS = PAGE_URL
 PAGE_PATHS = ['pages']
 STATIC_PATHS = ['js', 'css', 'fonts', 'images', 'misc', 'files',
 	'font-awesome']
+ARTICLE_EXCLUDES = STATIC_PATHS
+PAGE_EXCLUDES = ARTICLE_EXCLUDES
 MD_EXTENSIONS = ['codehilite(css_class=highlight)','extra', 'smartypants',
 	'toc(title=Table of Contents)']
 
