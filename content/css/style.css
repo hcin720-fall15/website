@@ -65,6 +65,7 @@ ul { list-style-type: circle }
 	font-size: 95%;
 	color: #666;
 }
+.assignment p {padding-left: 1.5em}
 
 .sidebar table
 {
@@ -88,3 +89,5 @@ ul { list-style-type: circle }
 .fa-cloud { color: #4ec9f4 }
 
 .center-content ul { padding-left: 1em }
+
+
