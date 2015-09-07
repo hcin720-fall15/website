@@ -9,6 +9,24 @@ learning by doing.
 
 ##Assignments and tasks
 <div class="assignment">
+###Assigned Wednesday, September 2
+####Due Tuesday, September 8
+Download and read the following paper; be prepared to discuss it in
+class next week.
+
+[Informing the design of proxemic
+interactions](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6127852)
+
+Note: if you're off campus, you can add
+`http://ezproxy.rit.edu/login?url=` to the front of a URL in order to
+be able to download PDFs from sources RIT has access to.
+</div>
+<div class="assignment">
+###Assigned Thursday, August 27
+####Due Tuesday, September 8
+[Individual Assignment 1](assignment1.html)
+</div>
+<div class="assignment">
 ###Assigned Tuesday, August 25
 ####Due Wednesday, August 26
 Fill out the [class
@@ -56,6 +74,15 @@ number of classes taught at other universities:
 
 
 ##Resources
+- [How to ask questions (the smart
+	way)](http://www.catb.org/esr/faqs/smart-questions.html#intro)
+
+###Photon
+- [Photon Guide](https://docs.particle.io/guide)
+- [Photon Reference](https://docs.particle.io/reference/firmware/photon/)
+	- Note particularly the docs about the function we talked about in class:
+	[`Spark.function()`](https://docs.particle.io/reference/firmware/photon/#spark-function-)
+
 ###Javascript
 There are quite a few Javascript books available via the RIT Library.
 Use [this search link](http://rit.summon.serialssolutions.com/?q=javascript&SID=libhs#!/search?ho=t&fvf=ContentType,Book%20%2F%20eBook,f|Library,Online,f&l=en&q=javascript&SID=libhs)
