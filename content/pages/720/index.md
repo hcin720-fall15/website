@@ -9,6 +9,18 @@ learning by doing.
 
 ##Assignments and tasks
 <div class="assignment">
+###Assigned Thursday, September 10
+####Due Tuesday, September 15
+Download and read the following paper; be prepared to discuss it in
+class next week.
+
+[Enabling the Internet of
+Things](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7030240)
+
+####Due Tuesday, September 22
+[Individual Assignment 2](assignment2.html)
+</div>
+<div class="assignment">
 ###Assigned Wednesday, September 2
 ####Due Tuesday, September 8
 Download and read the following paper; be prepared to discuss it in

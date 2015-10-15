@@ -21,14 +21,14 @@ Tue, Aug 25 | Wed, Aug 26 | [Survey](https://docs.google.com/forms/d/1TG3gzmcLkt
 Tue, Aug 25 | Thu, Aug 27 | [IA 1 Set up](a1setup.html)
 Thu, Aug 27 | Tue, Sep 8  | [IA 1](assignment1.html)
 Tue, Sep 8  | Thu, Sep 10 | [IA 2 Set up](a2setup.html)
-Tue, Sep 10 | Tue, Sep 22 | IA 2
-Tue, Sep 22 | Thu, Sep 24 | Set up
-Thu, Sep 24 | Tue, Oct 6  | IA 3
-Tue, Oct 6  | Tue, Oct 20 | GP 1
-Tue, Oct 20 | Tue, Nov 3  | GP 2
-Tue, Nov 3  | Tue, Nov 17 | GP 3
-Thu, Nov 12 | Thu, Nov 19 | FP prop.
-Thu, Nov 12 | Finals week | FP
+Tue, Sep 10 | Tue, Sep 22 | [IA 2](assignment2.html)
+Tue, Sep 29 | Thu, Oct 15 | [IA 3](assignment3.html)
+Thu, Oct 1  | Thu, Oct 8  | [EC 1](extracredit1.html)
+Thu, Oct 15 | Tue, Nov 3  | [GP 1](group_project1.html)
+Thu, Oct 15 | Tue, Nov 3  | [EC 2](group_project1.html#extracredit2)
+Tue, Nov 3  | Tue, Nov 24 | GP 2
+Tue, Nov 17 | Tue, Nov 24 | FP prop.
+Tue, Nov 24 | Tue, Dec 15 | FP
 
-_(IA: Individual Assignment; GP: Group Project; FP: Final Project;
-prop.: proposal)_
+_(IA: Individual Assignment; GP: Group Project; EC: Extra Credit; FP:
+Final Project; prop.: proposal)_
